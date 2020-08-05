@@ -42,7 +42,7 @@ type Model struct {
 
 //feedbackResult struct
 type feedbackResult struct{
-	feedbacktotal int
+	feedbackTotal int
 	feedbackPositive int
 	feedbackNegative int
 	feedbackNeutral int
